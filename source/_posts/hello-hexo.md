@@ -46,4 +46,9 @@ More info: [Generating](https://hexo.io/docs/generating.html)
 $ hexo deploy
 ```
 
+#### 4、主题
+
+[主题汇总](https://hexo.io/themes/)
+[收藏1](http://notes.iissnan.com/)
+
 More info: [Deployment](https://hexo.io/docs/deployment.html)

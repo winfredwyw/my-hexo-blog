@@ -5,7 +5,7 @@ tagcloud: Tag Cloud
 tweets: Tweets
 prev: Prev
 next: Next
-comment: Comments
+comment: false
 archive_a: Archives
 archive_b: "Archives: %s"
 page: Page %d

@@ -17,7 +17,7 @@ widgets:
 - archive
 - recent_posts
 - intro
-- blogroll
+# - blogroll
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
